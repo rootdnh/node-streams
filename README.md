@@ -1,6 +1,6 @@
 # node-streams
 
-<h2>Steps to run</h2>
+## Steps to run
 
 ```
 npm run server
